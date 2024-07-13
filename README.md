@@ -1,6 +1,5 @@
 ## About me
-Xin chào. Tôi là Học, hiện đang là sinh viên năm cuối trường Công nghệ thông tin và Truyền thông chuyên nghành Khoa học dữ liệu và Trí tuệ nhân tạo. Hiện tại tôi đang làm nghiên cứu cho viện khoa học ứng dụng và công nghệ của trường về một số dự án thực tế.
-
+Hello. I am Học, currently a final-year student at the School of Information and Communication Technology, majoring in Data Science and Artificial Intelligence. I am currently conducting research for the school's Institute of Applied Science and Technology on several real-world projects.
 
 Here are my contact details that you can use to reach me or find me:
 
